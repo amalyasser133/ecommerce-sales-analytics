@@ -1,0 +1,91 @@
+product_id,product_name,category,unit_price,unit_cost
+1,Smartphone Basic,Electronics,7200.0,5110.97
+2,Smartphone Plus,Electronics,9000.0,5006.27
+3,Smartphone Pro,Electronics,11700.0,7239.46
+4,Laptop Basic,Electronics,17600.0,10662.13
+5,Laptop Plus,Electronics,22000.0,16150.59
+6,Laptop Pro,Electronics,28600.0,20568.4
+7,Headphones Basic,Electronics,1200.0,927.65
+8,Headphones Plus,Electronics,1500.0,857.6
+9,Headphones Pro,Electronics,1950.0,1278.19
+10,Smart Watch Basic,Electronics,2800.0,1560.86
+11,Smart Watch Plus,Electronics,3500.0,2116.31
+12,Smart Watch Pro,Electronics,4550.0,3077.34
+13,Tablet Basic,Electronics,6400.0,3562.46
+14,Tablet Plus,Electronics,8000.0,4797.68
+15,Tablet Pro,Electronics,10400.0,7409.7
+16,Power Bank Basic,Electronics,560.0,384.29
+17,Power Bank Plus,Electronics,700.0,423.58
+18,Power Bank Pro,Electronics,910.0,634.56
+19,T-Shirt Basic,Fashion,280.0,210.66
+20,T-Shirt Plus,Fashion,350.0,193.07
+21,T-Shirt Pro,Fashion,455.0,341.91
+22,Jeans Basic,Fashion,640.0,463.7
+23,Jeans Plus,Fashion,800.0,508.05
+24,Jeans Pro,Fashion,1040.0,612.42
+25,Sneakers Basic,Fashion,1440.0,1136.6
+26,Sneakers Plus,Fashion,1800.0,1141.47
+27,Sneakers Pro,Fashion,2340.0,1341.26
+28,Jacket Basic,Fashion,1280.0,734.95
+29,Jacket Plus,Fashion,1600.0,1219.0
+30,Jacket Pro,Fashion,2080.0,1457.94
+31,Backpack Basic,Fashion,720.0,541.28
+32,Backpack Plus,Fashion,900.0,659.19
+33,Backpack Pro,Fashion,1170.0,800.35
+34,Dress Basic,Fashion,960.0,761.55
+35,Dress Plus,Fashion,1200.0,773.56
+36,Dress Pro,Fashion,1560.0,1073.3
+37,Air Fryer Basic,Home & Kitchen,2560.0,1938.82
+38,Air Fryer Plus,Home & Kitchen,3200.0,2254.82
+39,Air Fryer Pro,Home & Kitchen,4160.0,3184.18
+40,Blender Basic,Home & Kitchen,1120.0,777.66
+41,Blender Plus,Home & Kitchen,1400.0,1016.6
+42,Blender Pro,Home & Kitchen,1820.0,1021.85
+43,Cookware Set Basic,Home & Kitchen,2000.0,1213.95
+44,Cookware Set Plus,Home & Kitchen,2500.0,1555.87
+45,Cookware Set Pro,Home & Kitchen,3250.0,1852.33
+46,Vacuum Cleaner Basic,Home & Kitchen,3360.0,2043.54
+47,Vacuum Cleaner Plus,Home & Kitchen,4200.0,2416.05
+48,Vacuum Cleaner Pro,Home & Kitchen,5460.0,3382.43
+49,Coffee Maker Basic,Home & Kitchen,2240.0,1587.98
+50,Coffee Maker Plus,Home & Kitchen,2800.0,1795.38
+51,Coffee Maker Pro,Home & Kitchen,3640.0,2338.86
+52,Bedding Set Basic,Home & Kitchen,1360.0,819.23
+53,Bedding Set Plus,Home & Kitchen,1700.0,1048.47
+54,Bedding Set Pro,Home & Kitchen,2210.0,1733.0
+55,Perfume Basic,Beauty,1200.0,854.41
+56,Perfume Plus,Beauty,1500.0,1053.42
+57,Perfume Pro,Beauty,1950.0,1155.93
+58,Skincare Kit Basic,Beauty,720.0,527.24
+59,Skincare Kit Plus,Beauty,900.0,531.77
+60,Skincare Kit Pro,Beauty,1170.0,754.49
+61,Hair Dryer Basic,Beauty,560.0,446.53
+62,Hair Dryer Plus,Beauty,700.0,497.0
+63,Hair Dryer Pro,Beauty,910.0,627.21
+64,Makeup Palette Basic,Beauty,520.0,375.0
+65,Makeup Palette Plus,Beauty,650.0,494.46
+66,Makeup Palette Pro,Beauty,845.0,628.68
+67,Shaver Basic,Beauty,880.0,534.39
+68,Shaver Plus,Beauty,1100.0,613.83
+69,Shaver Pro,Beauty,1430.0,899.27
+70,Body Lotion Basic,Beauty,200.0,123.39
+71,Body Lotion Plus,Beauty,250.0,150.69
+72,Body Lotion Pro,Beauty,325.0,255.36
+73,Yoga Mat Basic,Sports,320.0,246.11
+74,Yoga Mat Plus,Sports,400.0,251.47
+75,Yoga Mat Pro,Sports,520.0,371.21
+76,Dumbbell Set Basic,Sports,1040.0,674.86
+77,Dumbbell Set Plus,Sports,1300.0,1012.23
+78,Dumbbell Set Pro,Sports,1690.0,1123.36
+79,Treadmill Basic,Sports,12000.0,7394.64
+80,Treadmill Plus,Sports,15000.0,9174.85
+81,Treadmill Pro,Sports,19500.0,13461.67
+82,Football Basic,Sports,360.0,221.65
+83,Football Plus,Sports,450.0,313.27
+84,Football Pro,Sports,585.0,453.06
+85,Bicycle Basic,Sports,5200.0,3379.22
+86,Bicycle Plus,Sports,6500.0,3931.4
+87,Bicycle Pro,Sports,8450.0,6754.8
+88,Protein Powder Basic,Sports,1120.0,758.67
+89,Protein Powder Plus,Sports,1400.0,801.82
+90,Protein Powder Pro,Sports,1820.0,1022.44
